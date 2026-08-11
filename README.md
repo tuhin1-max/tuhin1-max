@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./assets/about-me-scroll.gif" alt="About Me - Continuous Scrolling" width="900">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=🎓+Studying+CSE+%40+Manarat+International+University;📚+Currently+learning+Data+Structures+%26+Algorithms+with+C%2B%2B;🏆+2nd+Runner-Up+—+CodeSprint+V1.0+(MIU);🔭+Executive+Member+%40+MIU+Programming+Club;🌱+Exploring+Graph+Algorithms+%26+Dynamic+Programming)](https://git.io/typing-svg)
 
 </div>
 
