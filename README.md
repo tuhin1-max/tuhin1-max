@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tuhin1-max/tuhin1-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Md. Tuhin Ahammed 👋
 
-Here are some ideas to get you started:
+**CSE Student @ Manarat International University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-tuhin1--max-181717?style=flat&logo=github)](https://github.com/tuhin1-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Tuhin%20Ahammed-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/md-tuhin-ahammed)
+[![YouTube](https://img.shields.io/badge/YouTube-TuhinAhammed-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@TuhinAhammed-7)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Studying **Computer Science & Engineering** at Manarat International University
+- 📚 Currently learning **Data Structures & Algorithms** with C++
+- 🏆 **2nd Runner-Up** — CodeSprint V1.0, Intra-CSE Solo Programming Contest (MIU)
+- ⚡ Solved **150+ problems** on Codeforces
+- 🔭 Executive Member @ **MIU Programming Club**
+- 🌱 Currently exploring **Graph Algorithms & Dynamic Programming**
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📂 My Repositories
+
+| Repository | Description |
+|-----------|-------------|
+| [DSA-with-CPP](https://github.com/tuhin1-max/DSA-with-CPP) | Structured DSA journey — Time Complexity to Graph Algorithms |
+| [Competitive-Programming](https://github.com/tuhin1-max/Competitive-Programming) | Codeforces, LeetCode, HackerRank solutions |
+
+---
+
+## 📈 DSA Progress
+
+| Phase | Topics | Status |
+|-------|--------|--------|
+| Phase 1 | C++ for DSA | ✅ Completed |
+| Phase 2 | Basic Data Structures | ✅ Completed |
+| Phase 3 | Problem Solving with DSA | ✅ Completed |
+| Phase 4 | Introduction to Algorithms | 🔄 In Progress |
+| Phase 5 | Problem Solving Part 03 | ⏳ Upcoming |
+
+---
+
+## 🏅 Achievements
+
+- 🥉 **2nd Runner-Up** — CodeSprint V1.0, MIU Programming Club (2026)
+- ✅ **150+ problems** solved on Codeforces
+- 📌 **8 days** max streak on Codeforces
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuhin1-max&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin1-max&layout=compact&theme=tokyonight&hide_border=true)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tuhin7&theme=dark)
+
+</div>
+
+---
+
+## 🌐 Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-tuhin7-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/tuhin7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-tuhin7-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/tuhin7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank)](https://hackerrank.com)
+
+---
+
+<div align="center">
+
+*"In the language of logic, patience is the ultimate compiler."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=tuhin1-max&color=blue&style=flat)
+
+</div>
