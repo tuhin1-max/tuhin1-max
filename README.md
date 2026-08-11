@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md. Tuhin Ahammed 👋
-
-**CSE Student @ Manarat International University**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Tuhin%20Ahammed&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=fff&desc=CSE%20Student%20%7C%20Competitive%20Programmer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18)
 
 [![GitHub](https://img.shields.io/badge/GitHub-tuhin1--max-181717?style=flat&logo=github)](https://github.com/tuhin1-max)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Tuhin%20Ahammed-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/md-tuhin-ahammed)
@@ -14,12 +12,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Computer Science & Engineering** at Manarat International University
-- 📚 Currently learning **Data Structures & Algorithms** with C++
-- 🏆 **2nd Runner-Up** — CodeSprint V1.0, Intra-CSE Solo Programming Contest (MIU)
-- ⚡ Solved **150+ problems** on Codeforces
-- 🔭 Executive Member @ **MIU Programming Club**
-- 🌱 Currently exploring **Graph Algorithms & Dynamic Programming**
+<div align="center">
+
+<img src="./assets/about-me-scroll.gif" alt="About Me - Continuous Scrolling" width="900">
+
+</div>
 
 ---
 
@@ -61,7 +58,6 @@
 ## 🏅 Achievements
 
 - 🥉 **2nd Runner-Up** — CodeSprint V1.0, MIU Programming Club (2026)
-- ✅ **150+ problems** solved on Codeforces
 - 📌 **8 days** max streak on Codeforces
 
 ---
@@ -70,13 +66,7 @@
 
 <div align="center">
 
-![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuhin1-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin1-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tuhin1-max&theme=tokyonight&hide_border=true)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tuhin7&theme=dark)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tuhin7&theme=dark)](https://codeforces.com/profile/tuhin7)
 
 </div>
 
@@ -95,5 +85,7 @@
 *"In the language of logic, patience is the ultimate compiler."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tuhin1-max&color=blue&style=flat)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
