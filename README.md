@@ -35,10 +35,14 @@
 
 ## 📂 My Repositories
 
-| Repository | Description |
-|-----------|-------------|
-| [DSA-with-CPP](https://github.com/tuhin1-max/DSA-with-CPP) | Structured DSA journey — Time Complexity to Graph Algorithms |
-| [Competitive-Programming](https://github.com/tuhin1-max/Competitive-Programming) | Codeforces, LeetCode, HackerRank solutions |
+| Repository | Description | Language |
+|-----------|-------------|----------|
+| [DSA-with-CPP](https://github.com/tuhin1-max/DSA-with-CPP) | Structured DSA journey — Time Complexity to Graph Algorithms | C++ |
+| [Competitive-Programming](https://github.com/tuhin1-max/Competitive-Programming) | Codeforces, LeetCode, HackerRank solutions | C++ |
+| [YouTube-DSA-Series](https://github.com/tuhin1-max/YouTube-DSA-Series) | Code files from my YouTube DSA series | C++ |
+| [The-Last-Friend-Standing](https://github.com/tuhin1-max/The-Last-Friend-Standing) | Game project in C++ | C++ |
+| [Scientific-Calculator](https://github.com/tuhin1-max/Scientific-Calculator) | Scientific calculator built with Python Tkinter | Python |
+| [portfolio](https://github.com/tuhin1-max/portfolio) | Personal portfolio website | HTML |
 
 ---
 
@@ -66,9 +70,11 @@
 
 <div align="center">
 
-![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuhin1-max&show_icons=true&theme=tokyonight&hide_border=true)
+![Tuhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuhin1-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin1-max&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin1-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tuhin1-max&theme=tokyonight&hide_border=true)
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tuhin7&theme=dark)
 
@@ -80,7 +86,7 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-tuhin7-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/tuhin7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tuhin7-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/tuhin7)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank)](https://hackerrank.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-tuhin7-00EA64?style=flat&logo=hackerrank)](https://hackerrank.com/profile/tuhin7)
 
 ---
 
